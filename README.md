@@ -1,1 +1,2 @@
-# proj34
+# Geologist
+Geologist Project
